@@ -1,4 +1,4 @@
-Small utils to help emacs open file at position: 
+#### Small utils to help emacs open file at position: 
 
 ```bash 
 make # to generate the execuable 
@@ -27,7 +27,7 @@ function em() {
 }
 ```
 
-Then you can use, following types of cmds to open file at position:
+Then you can use following types of cmds to open file at position:
 ```bash
 em a.cpp # normal 
 em a.cpp:7 # open a.cpp and move the cursor at the begining of row 1 
